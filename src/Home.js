@@ -7,7 +7,7 @@ class Home extends Component {
         <h2>Welcome</h2>
         <p>Work in Progress</p>
  
-        <p></p>
+        <p>At the moment we are testing functionality on the testnet blockchain network. We will post our leasing address once our node is full deployed on the Mainnet.</p>
       </div>
     );
   }
