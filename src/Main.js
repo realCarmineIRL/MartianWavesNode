@@ -13,7 +13,7 @@ class Main extends Component {
     return (
         <HashRouter>
             <div>
-            <h1>Martian Waves Node</h1>
+            <h1 id="title">MartianWaves</h1>
             <ul className="header">
                 <li><NavLink exact to="/">Home</NavLink></li>
                 <li><NavLink to="/rewards">Rewards</NavLink></li>

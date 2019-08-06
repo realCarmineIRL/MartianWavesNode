@@ -36,3 +36,6 @@ body {
   .active {
     background-color: rgb(52, 135, 243);
   }
+  #title {
+    color: #FFF
+  }
