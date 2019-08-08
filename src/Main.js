@@ -13,17 +13,17 @@ class Main extends Component {
     return (
         <HashRouter>
             <div>
-            <h1 id="title">MartianWaves</h1>
-            <ul className="header">
-                <li><NavLink exact to="/">Home</NavLink></li>
-                <li><NavLink to="/rewards">Rewards</NavLink></li>
-                <li><NavLink to="/contact">Contact</NavLink></li>
-            </ul>
-            <div className="content">
-                <Route exact path="/" component={Home}/>
-                <Route path="/rewards" component={Rewards}/>
-                <Route path="/contact" component={Contact}/>
-            </div>
+              <h1 id="title">MartianWaves</h1>
+              <ul className="header">
+                  <li><NavLink exact to="/">Home</NavLink></li>
+                  <li><NavLink to="/rewards">Rewards</NavLink></li>
+                  <li><NavLink to="/contact">Contact</NavLink></li>
+              </ul>
+              <div className="content">
+                  <Route exact path="/" component={Home}/>
+                  <Route path="/rewards" component={Rewards}/>
+                  <Route path="/contact" component={Contact}/>
+              </div>
             </div>
         </HashRouter>
     );
