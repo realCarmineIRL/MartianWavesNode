@@ -6,6 +6,8 @@ class Rewards extends Component {
       <div>
         <h2>Rewards</h2>
         <p><strong>Work in Progress</strong></p>
+        <br />
+        <p>You will be able to exchange <strong>Martian Tokens</strong> for exclusive souvenirs</p>
       </div>
     );
   }
