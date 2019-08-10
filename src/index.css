@@ -2,6 +2,8 @@ body {
     background-color: rgb(190, 54, 13);
     padding: 20px;
     margin: 0;
+    background-image: url("resources/474316-PHGBG1-772.jpg");
+    background-size: center;
   }
   h1, h2, p, ul, li {
     font-family: sans-serif;
@@ -12,7 +14,7 @@ body {
     margin: 0;
   }
   ul.header {
-    background-color: #111;
+    background-color: rgba(0,0,0,0.4);
     padding: 0;
   }
   ul.header li a {
@@ -23,7 +25,7 @@ body {
     display: inline-block;
   }
   .content {
-    background-color: #FFF;
+    background-color: rgba(255,255,255,0.4);
     padding: 20px;
   }
   .content h2 {
