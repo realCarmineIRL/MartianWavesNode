@@ -6,7 +6,7 @@ class Contact extends Component {
       <div>
         <h2>GOT QUESTIONS?</h2>
         <p>The easiest thing to do is follow us on Twitter @
-        <a href="https://twitter.com/TheMartianWaves">theMartianWaves</a> or join our <a href="https://t.me/joinchat/AAAAAFIjFt50wCKVPcIGmg">Telegram</a> Channel .
+        <a href="https://twitter.com/TheMartianWaves">theMartianWaves</a> or join our <a href="https://t.me/MartianWavesNode">Telegram</a> Channel .
         </p>
       </div>
     );
