@@ -43,8 +43,13 @@ body {
       position: absolute;
       width: 100%;
       color: #fff;
-      line-height: 40px;
+      line-height: 20px;
       font-size: 0.7em;
       text-align: center;
       bottom:0;
+  }
+  img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 3%;
   }
