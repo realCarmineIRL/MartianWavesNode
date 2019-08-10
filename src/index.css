@@ -39,3 +39,12 @@ body {
   #title {
     color: #FFF
   }
+  p.copyright {
+      position: absolute;
+      width: 100%;
+      color: #fff;
+      line-height: 40px;
+      font-size: 0.7em;
+      text-align: center;
+      bottom:0;
+  }
