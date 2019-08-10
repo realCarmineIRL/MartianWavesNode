@@ -11,6 +11,8 @@ console.log(req)
 
 let blocks
 
+blocks = 1
+
 if (blocks) {
   request(req, { json: true }, (err, res, body) => {
     if (err) { return console.log(err) }
