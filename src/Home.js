@@ -10,7 +10,7 @@ class Home extends Component {
           <p>Address for leasing:</p>
           <p><strong>3PBRNq59cSHTwCEXBNFXvakyxadfftEs5y7</strong></p>
           <br />
-          <p><strong>90%</strong> Payout weekly + <strong>100 Martian Tokens</strong> per mined block</p>
+          <p><strong>98%</strong> Payout weekly + <strong>100 Martian Tokens</strong> per mined block</p>
           </div>
       </div>
     );
